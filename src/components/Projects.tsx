@@ -11,7 +11,7 @@ const projects = [
     desc: 'Front-end que consome diretamente a API do barber-back. Desenvolvido com React e TypeScript, entregando uma interface moderna e tipada para o sistema de barbearia.',
     tags: ['React', 'TypeScript', 'CSS Modules'],
     github: 'https://github.com/caiokid/barber-front',
-    site: 'https://barber-front-gamma.vercel.app',
+    site: 'https://barber-front-r4zmtuy02-caiokids-projects.vercel.app',
     featured: true,
     image: barberFrontImg,
   },
